@@ -1,0 +1,22 @@
+{
+  "name": "vikatask",
+  "version": "1.0.0",
+  "description": "task rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.17.3",
+    "pg": "^8.7.3",
+    "postgres": "^3.0.6",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.3.6"
+  }
+}
